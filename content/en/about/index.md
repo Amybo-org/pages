@@ -6,19 +6,19 @@ menu: {main: {weight: 10}}
 
 {{% blocks/cover title="About Amybo" image_anchor="bottom" height="auto" %}}
 
-An open source protein fermentation community project
+a non-profit open source protein fermentation community
 {.mt-5}
 
 {{% /blocks/cover %}}
 
-{{% blocks/section %}}
+{{% blocks/lead color="primary" %}}
 
 Amybo was kicked off in 2023 by [Martin Currie](https://www.linkedin.com/in/martincurrie/) following inspiration from [reboot food](https://www.rebootfood.org), [Gerrit Niezen](https://gerritniezen.com/how-to-open-source-precision-fermentation), [
 Cam Davidson Pilon](https://forum.pioreactor.com/u/camdavidsonpilon/summary) at [Pioreactor](https://pioreactor.com), the [Good Food Institute](https://gfi.org), [New Harvest](https://new-harvest.org), [George Monbiot](https://www.monbiot.com) and his book [Regenesis - Feeding the World without Devouring the Planet](https://www.penguin.co.uk/books/317018/regenesis-by-monbiot-george/9780241447642), [Amanda Lake](https://www.linkedin.com/in/amanda-lake-9b909221/) and many others.
 
-{{% /blocks/section %}}
+{{% /blocks/lead %}}
 
-{{% blocks/section %}}
+{{% blocks/section color="light" %}}
 
 We would love you to join us, feel free to get involved in any way you like.  And if you like, when you like, please do add your name and inspirations here.
 
