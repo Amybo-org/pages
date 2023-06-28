@@ -6,6 +6,8 @@ weight: 10
 
 Step one in protein development is deciding which protein to develop first.  Choice of bioreactor, feedstocks and downstream processing are all dependent on the organisms we use and the proteins they produce.  This page is very much a work in progress and your input would be hugely welcome.
 
+We mention a number of commercial "closed source" companies below.  We fully support their efforts to bring the benefits of alternative proteins.  Commercial competition has brought many excellent innovations to market.  Many companies seek to do good, even before seeking profit, however there is a risk that good companies and/or their IP gets acquired by less benevolent enterprises. Shareholder primacy means that some of the world's poorest, in the most challenging environments may not benefit as much as they could from the innovations that they need most.  Open source projects like this serve to benefit all corporations (as they can access our data) while also ensuring our innovations have the potential to benefit all.
+
 ## Our Protein Shortlist
 
 ### Algal protein
