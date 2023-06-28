@@ -28,10 +28,6 @@ updates:
   it's a work in progress. (**Don't** add the Hugo property
   "draft = true" to the page front matter, because that prevents the
   auto-deployment of the content preview described in the next point.)
-#1. Wait for the automated PR workflow to do some checks. When it's ready,
-#  you should see a comment like this: **deploy/netlify — Deploy preview ready!**
-#1. Click **Details** to the right of "Deploy preview ready" to see a preview
-#  of your updates.
 1. Continue updating your doc and pushing your changes until you're happy with
   the content.
 1. When you're ready for a review, add a comment to the PR, and remove any
