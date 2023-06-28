@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: Democratising food.
+description: How we hope to democratise food.
 weight: 1
 ---
 
