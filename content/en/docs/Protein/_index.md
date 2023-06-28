@@ -1,7 +1,7 @@
 ---
 title: Protein
 description: What protein should we produce?
-weight: 10
+weight: 20
 ---
 
 Step one in protein development is deciding which protein to develop first.  Choice of bioreactor, feedstocks and downstream processing are all dependent on the organisms we use and the proteins they produce.  This page is very much a work in progress and your input would be hugely welcome.
