@@ -11,6 +11,7 @@ title: Amybo
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/Amybo-org">
   Contribute <i class="fab fa-github ms-2 "></i>
 </a>
+<br><br>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
