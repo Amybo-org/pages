@@ -3,7 +3,7 @@ title: Amybo
 ---
 
 {{< blocks/cover title="Open Source Protein" image_anchor="top" height="full" >}}
-<p class="lead mt-5">Welcome to Amybo: a non-profit open source protein fermentation community</p>
+<p class="lead">Welcome to Amybo: a non-profit open source protein fermentation community</p>
 <br><br>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
