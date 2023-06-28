@@ -65,7 +65,7 @@ languageName ="English"
 weight = 1
 [languages.en.params]
 title = "Amybo"
-description = "A Docsy example site"
+description = "Open source protein fermentation"
 
 [languages.no]
 languageName ="Norsk"
