@@ -1,8 +1,18 @@
 ---
 title: Contribution Guidelines
-weight: 10
-description: How to contribute to the docs
+weight: 999
+description: How to contribute to the Amybo community
 ---
+
+
+
+# Editing Amybo.org
+
+We welcome contributions and improvements to the Amybo.org website.  We want this to be as easy as possible so considered a wiki.  However, given the controversial nature and risks associated with protein production for human consumption, we decided that an approvals process was required.
+
+Since we'll be using GitHub for software development, and potentially also for hardware and procedure development it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please just make any suggestions in our [Discussion]() or [email us](mailto:hello@amybo.com)
+
+## Web stack
 
 We use [Hugo](https://gohugo.io/) to format and generate our website, the
 [Docsy](https://github.com/google/docsy) theme for styling and site structure,
@@ -39,7 +49,7 @@ If you've just spotted something you'd like to change while using the docs, Docs
 
 1. Click **Edit this page** in the top right hand corner of the page.
 1. If you don't already have an up to date fork of the project repo, you are prompted to get one - click **Fork this repository and propose changes** or **Update your Fork** to get an up to date version of the project to edit. The appropriate page in your fork is displayed in edit mode.
-2. Follow the rest of the [Quick start](#quick-start) process above to make, preview, and propose your changes.
+1. Follow the rest of the [Quick start](#quick-start) process above to make, preview, and propose your changes.
 
 ## Previewing your changes locally
 
