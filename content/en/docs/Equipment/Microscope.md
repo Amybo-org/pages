@@ -4,6 +4,10 @@ description: Which microscope should we use?
 weight: 30
 ---
 
+Microscopes are third on the list of major open source equipment, because it is very possible to conduct fermentation without a microscope.  It would however be much more difficult and less rewarding if you could never see your microbes.  Microscopy also plays a valuable role in detecting contamination by unwanted microbes.
+
+Fortunately there are a good number of open source microscopy projects:
+
 ## Our Microscope Shortlist
 
 ### [Open Flexure](https://openflexure.org/projects/microscope/)
