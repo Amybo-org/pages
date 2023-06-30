@@ -20,6 +20,7 @@ Exciting features for Amybo (as of June 2023):
 * it is clearly under active development
 * it is available for sale with excellent lead times
 * you can add LEDs as a light source for algae
+* the system is compatible with [DormantBioLabResources](https://github.com/oplz/DormantBioLabResources/tree/main/Prints/dovetailed_rack)' open source modular lab racks
 
 Wish list (as of June 2023):
 
@@ -28,7 +29,7 @@ Wish list (as of June 2023):
 3. Easy-open viewport cover (it currently requires 4 screws)
 4. 3D printer files - to minimise shipping cost & carbon, and enable community development
 5. Ability to control temperature below ambient
-6. Quick release plate to aid wall-mounting for bioreactor farms & video production
+6. Ability to wall-mount for bioreactor farms & video production
 7. Fully assembled units (including pre-configured raspberry pi's) for technophobes
 8. Global stockists - to reduce shipping time, cost and carbon
 9. A way to be certain that reactor overflow isn't going to fry your raspberry pi
