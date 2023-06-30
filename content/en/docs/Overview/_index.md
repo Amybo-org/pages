@@ -20,3 +20,5 @@ Initially, we have quite a list of questions to answer:
 You are invited to join us in creating pages on this site addressing these issues (and any other's we haven't yet thought of)
 
 * [Getting Started](/docs/getting-started/)
+
+<br>

@@ -77,3 +77,5 @@ Plant-based protein production still requires significantly more land, and in ma
 There are many improvements that can be made to crop cultivation.  For example [The Land Institute](https://landinstitute.org/our-work/perennial-crops/) are doing wonderful work on perennial crops.  Many small (and not-so-small) scale farmers and horticulturalists are doing wonderful things around both increasing yields and decreasing environmental impact.
 
 Climate change poses an existential threat, it is essential that we reduce GHG emissions from food production and all other activities.  Even if we manage this we still need to adapt to climate change.  There are already populated places on earth where natural crop cultivation is impossible.  Microbial protein production could be sustainable in all such regions.  Our challenge is to ensure that it is economically viable and available to all who need it.
+
+<br>
