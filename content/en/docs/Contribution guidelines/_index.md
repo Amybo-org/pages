@@ -4,15 +4,19 @@ weight: 999
 description: How to contribute to the Amybo community
 ---
 
+## Reach out to us
 
+Please add a comment to one of [our YouTube videos](https://www.youtube.com/@amybo) or drop us a line at hello@amybo.org with any suggestions or questions you may have - or just to say hello, it's good to know people are reading this.
 
-# Editing Amybo.org
+If you're comfortable with GitHub (or would like to learn) we'd absolutely love it if you were happy to dive in and edit our pages directly:
+
+## Editing Amybo.org
 
 We welcome contributions and improvements to the Amybo.org website.  We want this to be as easy as possible so considered a wiki.  However, given the controversial nature and risks associated with protein production for human consumption, we decided that an approvals process was required.
 
-Since we'll be using GitHub for software development, and potentially also for hardware and procedure development it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please just make any suggestions in our [Discussion]() or [email us](mailto:hello@amybo.com)
+Since we'll be using GitHub for software development at least, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via hello@amybo.org
 
-## Web stack
+### Web stack
 
 We use [Hugo](https://gohugo.io/) to format and generate our website, the
 [Docsy](https://github.com/google/docsy) theme for styling and site structure,
@@ -26,7 +30,7 @@ use GitHub pull requests for this purpose. Consult
 [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
 information on using pull requests.
 
-## Quick start
+### Quick start
 
 Here's a quick guide to updating the docs. It assumes you're familiar with the
 GitHub workflow and you're happy to use the automated preview of your doc
@@ -47,7 +51,7 @@ updates:
 1. When you're ready for a review, add a comment to the PR, and remove any
   "WIP" markers.
 
-## Updating a single page
+### Updating a single page
 
 If you've just spotted something you'd like to change while using the docs, Docsy has a shortcut for you:
 
@@ -70,11 +74,11 @@ If you want to run your own local Hugo server to preview your changes as you wor
 1. Continue with the usual GitHub workflow to edit files, commit them, push the
   changes up to your fork, and create a pull request.
 
-## Creating an issue
+### Creating an issue
 
 If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the [Amybo pages repo](https://github.com/Amybo-org/pages/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
 
-## Useful resources
+### Useful resources
 
 * [Docsy user guide](https://www.docsy.dev/docs/): All about Docsy, including how it manages navigation, look and feel, and multi-language support.
 * [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
