@@ -1,6 +1,6 @@
 ---
-title: Bioreactor
-description: Which bioreactor should we use?
+title: Equipment
+description: Which equipment should we use?
 weight: 30
 ---
 
