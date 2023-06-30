@@ -1,6 +1,6 @@
 ---
-title: Microscope
-description: Which microscope should we use?
+title: Microscopes
+description: Which microscopes should we use?
 weight: 30
 ---
 

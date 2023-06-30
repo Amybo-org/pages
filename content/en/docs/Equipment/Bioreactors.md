@@ -1,6 +1,6 @@
 ---
-title: Bioreactor
-description: Which bioreactor should we use?
+title: Bioreactors
+description: Which bioreactors should we use?
 weight: 10
 ---
 

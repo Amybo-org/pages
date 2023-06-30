@@ -1,13 +1,13 @@
 ---
-title: Autoclave
-description: Which sterilisation system should we use?
+title: Autoclaves
+description: Which sterilisation systems should we use?
 weight: 20
 ---
 
 ## Open Source Autoclave Shortlist
 
-Oh dear, this is a short list
-### There are however controllers:
+This is a short list, there are a number of open source autoclave control projects:
+### controllers:
 * [Autoclave_control](https://github.com/zultron/autoclave_control)
 * [RAMIRO-GM](https://github.com/RAMIRO-GM/autoclave)
 * [iSpecc iControl System](https://www.ispecc.com/controls/composite-control-systems-2)
