@@ -4,7 +4,9 @@ description: Which bioreactor should we use?
 weight: 30
 ---
 
-Once you have determined which protein you wish to cultivate, the next question is what you are going to cultivate it in.  We believe there is a huge need for development of better and more efficient bioreactors across the board - commercial competition is an established means of driving innovation.  However, as with the microbes and processes, we think development of open source solutions is necessary to insure that those who most need
+Once you have determined which protein you wish to cultivate, the next question is what you are going to cultivate it in.  We believe there is a huge need for development of better and more efficient bioreactors across the board - commercial competition is an established means of driving innovation.  However, as with the microbes and processes, development of open source solutions may be necessary to insure that those who most need them can afford them.
+
+Using an open source bioreactor also enables you to both customise it's capabilities, and contribute to it's development.
 
 ## Our Bioreactor Shortlist
 
@@ -32,9 +34,26 @@ Wish list (as of June 2023):
 1. Global stockists - to reduce shipping time, cost and carbon
 1. A way to be certain that reactor overflow isn't going to fry your raspberry pi
 
-### 
-
 ## Other Open Source Bioreactors
+
+### [Hackuarium's bioreactor](https://hackuarium.github.io/bioreactor/)
+
+Watch also [Open source bioreactor](https://www.youtube.com/watch?v=2KjGlIgatn0)
+
+Concerns (as of June 2023):
+
+1. [last commit](https://github.com/Hackuarium/bioreactor) was 7 months ago
+2. It doesn't appear to be commercially available although full [assembly instructions](https://hackuarium.github.io/bioreactor/making/assembling/) and a detailed [bill of materials](https://hackuarium.github.io/bioreactor/making/bom/) are given
+
+### Phenobottle
+
+Watch [Photobioreactor (Phenobottle)](https://www.youtube.com/playlist?list=PL7MuBo62sNuamlGr7JvWv_NYDa8W65VWL)
+
+Concerns (as of June 2023):
+
+1. [last commit](https://github.com/HarveyBates/Phenobottle) was 2 years ago
+
+### New Harvest [Open Source Bioreactor](https://new-harvest.org/initiatives/open-source-bioreactor/)
 
 ### [EVE-Pi](https://doi.org/10.7554/eLife.83067)
 
@@ -60,4 +79,3 @@ Concerns (as of June 2023):
 
 1. [last commit](https://github.com/Biomaker/2018-opensourcebioreactor) was 5 years ago.
 2. [chat channel](https://chat.biomake.space/members/channels/open-source-bioreactor) is a dead link
-
