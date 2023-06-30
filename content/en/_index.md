@@ -17,7 +17,7 @@ title: Amybo
 
 
 {{% blocks/lead color="primary" %}}
-Amybo is all about letting people grow their own tasty, nutritious and affordable protein.
+Amybo is all about letting people grow their own nutritious, delicious and affordable protein.
 {{% /blocks/lead %}}
 
 
