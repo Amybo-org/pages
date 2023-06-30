@@ -23,7 +23,7 @@ Amybo is all about letting people grow their own nutritious, delicious and affor
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-handshake-angle" title="We need your help" %}}
-We need biotechnologists, microbiologists, nutritionists, medics, creatives, makers, coders, engineers, environmentalists, enthusiasts.
+We need biotechnologists, microbiologists, nutritionists, medics, creatives, makers, coders, chefs, engineers, environmentalists, enthusiasts.
 {{% /blocks/feature %}}
 
 
