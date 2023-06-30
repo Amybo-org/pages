@@ -4,13 +4,13 @@ description: Which sterilisation system should we use?
 weight: 20
 ---
 
-## Our Open Source Autoclave Shortlist
+## Open Source Autoclave Shortlist
 
-### Oh dear, this is a short list
+Oh dear, this is a short list
 ### There are however controllers:
-*[Autoclave_control](https://github.com/zultron/autoclave_control)
-*[RAMIRO-GM](https://github.com/RAMIRO-GM/autoclave)
-*[iSpecc iControl System](https://www.ispecc.com/controls/composite-control-systems-2)
+* [Autoclave_control](https://github.com/zultron/autoclave_control)
+* [RAMIRO-GM](https://github.com/RAMIRO-GM/autoclave)
+* [iSpecc iControl System](https://www.ispecc.com/controls/composite-control-systems-2)
 
 ## Pressure cookers
 
@@ -41,6 +41,6 @@ See also [Open Autoclave: Build an open-source off-grid medical instrument steri
 
 Concerns (as of June 2023):
 
-1. How can this maintain pressure, and if it doesn't how can it be called an autoclave?
+1. How can this maintain pressure, and if it doesn't, how can it be called an autoclave?
 
 <br>
