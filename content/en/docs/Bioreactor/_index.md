@@ -4,7 +4,7 @@ description: Which bioreactor should we use?
 weight: 30
 ---
 
-Once you have determined which protein you wish to cultivate, the next question is what you are going to cultivate it in.  We believe there is a huge need for development of better and more efficient bioreactors across the board - commercial competition is an established means of driving innovation.  However, as with the microbes and processes, development of open source solutions may be necessary to insure that those who most need them can afford them.
+Once you have determined which protein you wish to cultivate, the next question is what you are going to cultivate it in.  We believe there is a huge need for development of better and more efficient bioreactors across the board - commercial competition is an established means of driving innovation.  However, as with the microbes and processes, development of open source solutions may be necessary to ensure that those who most need them can afford them.
 
 Using an open source bioreactor also enables you to both customise it's capabilities, and contribute to it's development.
 
@@ -52,8 +52,6 @@ Watch [Photobioreactor (Phenobottle)](https://www.youtube.com/playlist?list=PL7M
 Concerns (as of June 2023):
 
 1. [last commit](https://github.com/HarveyBates/Phenobottle) was 2 years ago
-
-### New Harvest [Open Source Bioreactor](https://new-harvest.org/initiatives/open-source-bioreactor/)
 
 ### [EVE-Pi](https://doi.org/10.7554/eLife.83067)
 
