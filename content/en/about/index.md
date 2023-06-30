@@ -45,7 +45,7 @@ CONFESSION: The image of the blueberry porridge that we're currently using on th
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-handshake-angle" title="We need your help" %}}
-We need biotechnologists, chefs, coders, creatives, engineers,enthusiasts, environmentalists, makers, medics, microbiologists, nutritionists, others.
+We need biotechnologists, chefs, coders, creatives, engineers, enthusiasts, environmentalists, makers, medics, microbiologists, nutritionists, others.
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/Amybo-org" %}}
