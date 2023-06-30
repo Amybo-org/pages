@@ -8,8 +8,8 @@ Once you have determined which protein you wish to cultivate, the next question 
 
 ## Bioreactor Shortlist
 
-### Pioreactor
-> "The [Pioreactor](https://pioreactor.com) is an open-source, affordable, and extensible bioreactor platform.["](https://docs.pioreactor.com/user-guide/introduction)
+### [Pioreactor](https://pioreactor.com)
+> "The Pioreactor is an open-source, affordable, and extensible bioreactor platform.["](https://docs.pioreactor.com/user-guide/introduction)
 
 It currently comes in a cute and cost-effective 20 ml version that can be used in batch, fed batch, continuous, chemostat, turbidostat & PID morbidostat modes.  While the software is already [open source](https://github.com/pioreactor/), we understand from the founder that the hardware and 3D designs are due to be made open source in 2023.
 
@@ -23,14 +23,15 @@ Exciting features for Amybo (as of June 2023):
 
 Wish list (as of June 2023):
 
-1. larger vessels - so probes can be added
-2. easy-open viewport cover (it currently requires 4 screws)
-3. 3D printer files - to minimise shipping cost & carbon, and enable community development
-4. ability to control temperature below ambient
-5. quick release plate to aid wall-mounting for bioreactor farms & video production
-6. Fully assembled units (including pre-configured raspberry pi's) for technophobes
-7. Global stockists - to reduce shipping time, cost and carbon
-8. A way to be certain that reactor overflow isn't going to fry your raspberry pi
+1. Ability to automatically upload results to a [project cloud database](https://forum.pioreactor.com/t/project-cloud-database/135?u=martin)
+2. [larger vessels](https://forum.pioreactor.com/t/looking-for-users-who-need-more-volume/130) - so probes can be added
+3. Easy-open viewport cover (it currently requires 4 screws)
+4. 3D printer files - to minimise shipping cost & carbon, and enable community development
+5. Ability to control temperature below ambient
+6. Quick release plate to aid wall-mounting for bioreactor farms & video production
+7. Fully assembled units (including pre-configured raspberry pi's) for technophobes
+8. Global stockists - to reduce shipping time, cost and carbon
+9. A way to be certain that reactor overflow isn't going to fry your raspberry pi
 
 ## Other Open Source Bioreactors
 
