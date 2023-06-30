@@ -7,10 +7,16 @@ weight: 20
 ## Open Source Autoclave Shortlist
 
 This is a short list, there are a number of open source autoclave control projects:
-### controllers:
+
 * [Autoclave_control](https://github.com/zultron/autoclave_control)
 * [RAMIRO-GM](https://github.com/RAMIRO-GM/autoclave)
 * [iSpecc iControl System](https://www.ispecc.com/controls/composite-control-systems-2)
+
+But the only open source project that claims to deliver a full autoclave, is in our opinion just a thermal steriliser, as it doesn't appear to pressurise the sterilisation volume.
+
+It may well be that open source autoclaves are too risky.  The probability of an explosion with an incorrectly constructed unit is high and the consequences could be lethal.
+
+Given the high risk and low volumes of sales a commercial autoclave would likely be the most expensive item on our equipment list.  So we should consider pressure cookers:
 
 ## Pressure cookers
 
