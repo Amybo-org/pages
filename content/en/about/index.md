@@ -51,7 +51,7 @@ We need biotechnologists, chefs, coders, creatives, engineers, enthusiasts, envi
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/Amybo-org" %}}
-We do a [Pull Request](https://github.com/Amybo-org/pulls) contributions workflow on **GitHub**. New users are always welcome.
+All these pages are editable, so please [add more, fix what's wrong, or just get in touch](/docs/contribution-guidelines).
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-youtube" title="Subscribe on Youtube" url="https://www.youtube.com/@amybo" %}}
