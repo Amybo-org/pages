@@ -4,9 +4,9 @@ description: Which bioreactor should we use?
 weight: 10
 ---
 
-Once you have determined which protein you wish to cultivate, the next question is what you are going to cultivate it in.  We believe there is a huge need for development of better and more efficient bioreactors across the board - but, given the nature of this project, it makes sense to, at least initially, restrict our scope to open source bioreactors.
+Once you have determined which protein you wish to cultivate, the next question is what you are going to cultivate it in.  There is a need for development of better and more efficient bioreactors across the board - but, given the nature of this project, it makes sense to, at least initially, restrict our scope to open source bioreactors.
 
-## Our Bioreactor Shortlist
+## Bioreactor Shortlist
 
 ### Pioreactor
 > "The [Pioreactor](https://pioreactor.com) is an open-source, affordable, and extensible bioreactor platform.["](https://docs.pioreactor.com/user-guide/introduction)
@@ -16,21 +16,21 @@ It currently comes in a cute and cost-effective 20 ml version that can be used i
 Exciting features for Amybo (as of June 2023):
 
 * it appears to be more affordable than most automated bioreactors
-* it will soon be fully open source, hence we can tailor it to our needs
+* it will soon be fully open source, hence customisable
 * it is clearly under active development
 * it is available for sale with excellent lead times
 * you can add LEDs as a light source for algae
 
 Wish list (as of June 2023):
 
-1. larger vessels - so we can add probes
-1. easy-open viewport cover (it currently requires 4 screws)
-1. 3D printer files - to minimise shipping cost & carbon, and enable community development
-1. ability to control temperature below ambient
-1. quick release plate to aid wall-mounting for bioreactor farms & video production
-1. Fully assembled units (including pre-configured raspberry pi's) for technophobes
-1. Global stockists - to reduce shipping time, cost and carbon
-1. A way to be certain that reactor overflow isn't going to fry your raspberry pi
+1. larger vessels - so probes can be added
+2. easy-open viewport cover (it currently requires 4 screws)
+3. 3D printer files - to minimise shipping cost & carbon, and enable community development
+4. ability to control temperature below ambient
+5. quick release plate to aid wall-mounting for bioreactor farms & video production
+6. Fully assembled units (including pre-configured raspberry pi's) for technophobes
+7. Global stockists - to reduce shipping time, cost and carbon
+8. A way to be certain that reactor overflow isn't going to fry your raspberry pi
 
 ## Other Open Source Bioreactors
 
