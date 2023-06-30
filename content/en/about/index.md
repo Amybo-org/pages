@@ -18,14 +18,16 @@ Amybo is all about letting people grow their own nutritious, delicious and affor
 {{% blocks/section color="light" %}}
 
 Amybo was kicked off in 2023 by [Martin Currie](https://www.linkedin.com/in/martincurrie/) following inspiration from:
-* [reboot food](https://www.rebootfood.org),
-* [Gerrit Niezen](https://gerritniezen.com/how-to-open-source-precision-fermentation),
+* [George Monbiot](https://www.monbiot.com)'s "[Embrace what may be the most important green technology ever. It could save us all](https://www.theguardian.com/commentisfree/2022/nov/24/green-technology-precision-fermentation-farming)" Guardian Article which put him on to:
+* [Reboot Food](https://www.rebootfood.org), which got him googling for open source fermentation projects, and finding:
+* [Gerrit Niezen](https://gerritniezen.com/how-to-open-source-precision-fermentation), who confirmed the linked to
+* [Pioreactor](https://pioreactor.com), founded by
 * [
-Cam Davidson Pilon](https://forum.pioreactor.com/u/camdavidsonpilon/summary) at [Pioreactor](https://pioreactor.com),
-* the [Good Food Institute](https://gfi.org),
-* [New Harvest](https://new-harvest.org),
-* [George Monbiot](https://www.monbiot.com) and his book [Regenesis - Feeding the World without Devouring the Planet](https://www.penguin.co.uk/books/317018/regenesis-by-monbiot-george/9780241447642),
-* [Amanda Lake](https://www.linkedin.com/in/amanda-lake-9b909221/)
+Cam Davidson Pilon](https://forum.pioreactor.com/u/camdavidsonpilon/summary) who also hadn't seen much, but thought:
+* the [Good Food Institute](https://gfi.org), or
+* [New Harvest](https://new-harvest.org) would know.
+* He eventually read [George Monbiot](https://www.monbiot.com)'s [Regenesis - Feeding the World without Devouring the Planet](https://www.penguin.co.uk/books/317018/regenesis-by-monbiot-george/9780241447642), and was spurred on by
+* [Amanda Lake](https://www.linkedin.com/in/amanda-lake-9b909221/) of [IChemE](https://www.icheme.org)
 * and many others.
 
 {{% /blocks/section %}}
