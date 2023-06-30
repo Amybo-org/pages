@@ -13,12 +13,14 @@ Amybo is a diverse community of people interested in unlocking the secrets of pr
 Initially, we have quite a list of questions to answer:
 
 1. Which protein should we ferment first?
-2. What bioreator, or other system should we use to ferment it?
-3. How should we share our results to best accelerate open source knowledge?
+2. What equipment will we need to ferment it?
+3. How should we share our results to best accelerate open source development?
 4. How can we ensure that the products we make are safe to eat?
 
 You are invited to join us in creating pages on this site addressing these issues (and any other's we haven't yet thought of)
 
-* [Getting Started](/docs/getting-started/)
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/contribution-guidelines/">
+  Join Us <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
 
 <br>
