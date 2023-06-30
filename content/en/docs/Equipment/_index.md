@@ -8,4 +8,6 @@ Commercial competition is an established means of driving innovation.  However, 
 
 Using an open source equipment also enables you to both customise it's capabilities, and contribute to it's development.
 
+General purpose lab ware should be relatively easy to procure, and toxicity and chemical analysis can initially be outsourced to commercial labs.  There are some more expensive pieces of equipment to focus on:
+
 <br>
