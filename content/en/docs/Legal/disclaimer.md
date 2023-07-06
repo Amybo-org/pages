@@ -1,3 +1,11 @@
+---
+title: "Disclaimer"
+linkTitle: "Disclaimer"
+weight: 10
+description: >-
+     Amybo is not liable for your actions or inactions
+---
+
 ## DISCLAIMER
 Last updated July 06, 2023
 ### WEBSITE DISCLAIMER
