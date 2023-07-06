@@ -8,4 +8,4 @@ PROFESSIONAL DISCLAIMER
 The Site cannot and does not contain biotechnological/engineering/environmental/food/medical/health/legal advice. The biotechnological/engineering/environmental/food/medical/health/legal information is provided for general informational and educational purposes only and is not a substitute for professional advice.
 Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of
 biotechnological/engineering/environmental/food/medical/health/legal advice. THE USE OR RELIANCE OF ANY INFORMATION CONTAINED ON THE SITE IS SOLELY AT YOUR OWN RISK.
-This disclaimer was created using Termly's Disclaimer Generator.
+This disclaimer was created using Termly's [Disclaimer Generator](https://termly.io/products/disclaimer-generator/).
