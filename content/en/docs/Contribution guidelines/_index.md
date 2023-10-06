@@ -6,7 +6,7 @@ description: How to contribute to the Amybo community
 
 ## Reach out to us
 
-Please add a comment to one of [our YouTube videos](https://www.youtube.com/@amybo) or drop us a line at hello@amybo.org with any suggestions or questions you may have - or just to say hello, it's good to know people are reading this.
+Please add a comment to one of [our YouTube videos](https://www.youtube.com/@amybo) or drop us a line at <hello@amybo.org> with any suggestions or questions you may have - or just to say hello, it's good to know people are reading this.
 
 If you're comfortable with GitHub (or would like to learn) we'd absolutely love it if you were happy to dive in and edit our pages directly:
 
@@ -14,7 +14,7 @@ If you're comfortable with GitHub (or would like to learn) we'd absolutely love 
 
 We welcome contributions and improvements to the Amybo.org website.  We want this to be as easy as possible so considered a wiki.  However, given the controversial nature and risks associated with protein production for human consumption, we decided that an approvals process was required.
 
-Since we'll be using GitHub for software development, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via hello@amybo.org
+Since we'll be using GitHub for software development, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via <hello@amybo.org>
 
 ### Web stack
 
@@ -70,7 +70,7 @@ If you want to run your own local Hugo server to preview your changes as you wor
     git clone --recurse-submodules --depth 1 https://github.com/Amybo-org/pages
     ```
 
-1. Run `hugo server` in the site root directory. By default your site will be available at http://localhost:1313/. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
+1. Run `hugo server` in the site root directory. By default your site will be available at [localhost:1313/](http://localhost:1313/). Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
 1. Continue with the usual GitHub workflow to edit files, commit them, push the
   changes up to your fork, and create a pull request.
 
@@ -83,5 +83,3 @@ If you've found a problem in the docs, but you're not sure how to fix it yoursel
 * [Docsy user guide](https://www.docsy.dev/docs/): All about Docsy, including how it manages navigation, look and feel, and multi-language support.
 * [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
 * [Github Hello World!](https://guides.github.com/activities/hello-world/): A basic introduction to GitHub concepts and workflow.
-
-<br>
