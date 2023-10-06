@@ -15,7 +15,7 @@ title: Amybo
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-https://youtu.be/URkkhe3JCX4
+{{<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/URkkhe3JCX4?autoplay=1&fs=1&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://pengarutanuc.se/">Låna pengar utan uc</a></small></div><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://pengarutanuc.se/">låna pengar direkt utan uc</a></small></div><div><small><a href="https://youtubeembedcode.com/de/">youtubeembedcode.com/de/</a></small></div><div><small><a href="https://sms-lån-utan-uc.se/">sms-lån-utan-uc.se</a></small></div></iframe>}}
 
 {{% blocks/lead color="primary" %}}
 Amybo is all about letting people grow their own nutritious, delicious and affordable protein.
