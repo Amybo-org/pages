@@ -14,7 +14,7 @@ If you're comfortable with GitHub (or would like to learn) we'd absolutely love 
 
 We welcome contributions and improvements to the Amybo.org website.  We want this to be as easy as possible so considered a wiki.  However, given the controversial nature and risks associated with protein production for human consumption, we decided that an approvals process was required.
 
-Since we'll be using GitHub for software development at least, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via hello@amybo.org
+Since we'll be using GitHub for software development, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via hello@amybo.org
 
 ### Web stack
 
