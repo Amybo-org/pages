@@ -48,7 +48,7 @@ Harrison Lab have published bioinformatic analysis of *Fusarium venenatum* genom
 
 ### Precision fermentation
 
-Precision fermentation is where microbes are used to produce particular chemicals.  Insulin and rennet are common cited products of precision fermentation.  [Fooditive](https://www.fooditivegroup.com/vegan-casein/vegan-casein) are one company using Precision fermentation to produce casein - the main protein in milk, cheese, yoghurt and similar dairy products.
+Precision fermentation is where microbes are used to produce particular chemicals.  [Insulin]([url](https://openinsulin.org)) and rennet are common cited products of precision fermentation.  [Fooditive](https://www.fooditivegroup.com/vegan-casein/vegan-casein) are one company using Precision fermentation to produce casein - the main protein in milk, cheese, yoghurt and similar dairy products.
 
 The separation processes required to extract the end products of precision fermentation will likely make it a more complex process than biomass fermentation.  As such we anticipate that the proteins will be more expensive to make and harder to democratise.
 
