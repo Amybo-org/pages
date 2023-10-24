@@ -36,7 +36,7 @@ Wish list (as of June 2023):
 
 ## Other Open Source Bioreactors
 
-### [Hackuarium's bioreactor](https://hackuarium.github.io/bioreactor/)
+### [Hackuarium bioreactor](https://hackuarium.github.io/bioreactor/)
 
 Watch also [Open source bioreactor](https://www.youtube.com/watch?v=2KjGlIgatn0)
 
