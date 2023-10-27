@@ -1,5 +1,5 @@
 ---
-title: Single-cell protein
+title: Single-Cell Protein
 description: Which single-cell proteins should we produce?
 weight: 10
 ---
