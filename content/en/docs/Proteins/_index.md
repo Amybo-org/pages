@@ -1,6 +1,6 @@
 ---
-title: Microbes
-description: What microbes should we cultivate?
+title: Proteins
+description: What proteins should we produce?
 weight: 20
 ---
 
