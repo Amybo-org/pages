@@ -14,9 +14,9 @@ We mention a number of commercial "closed source" companies in these sections.  
 
 Biotechnology is providing amazing advances in many areas of food production including:
 
-1. Single-cell protein
-2. Precision fermentation
-3. Cultivated meat
+1. [Single-cell protein]({{< ref "/single-cell-protein" >}} "Singe-cell protein and biomass fermentation")
+2. [Precision fermentation]({{< ref "/precision-fermentation" >}} "Precision fermentation")
+3. [Cultivated meat]({{< ref "/cultivated-meat" >}} "Cultivated meat and cellular agriculture")
 
 ## Meat & Plant Protein
 
