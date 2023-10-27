@@ -14,7 +14,7 @@ We mention a number of commercial "closed source" companies in these sections.  
 
 Biotechnology is providing amazing advances in many areas of food production including:
 
-1. [Single-cell protein](https://amybo.org/docs/proteins/single-cell-protein/))
+1. [Single-cell protein](https://amybo.org/docs/proteins/single-cell-protein/)
 2. [Precision fermentation](https://amybo.org/docs/proteins/precision-fermentation/)
 3. [Cultivated meat](https://amybo.org/docs/proteins/cultivated-meat/)
 
