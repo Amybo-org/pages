@@ -1,7 +1,7 @@
 ---
 title: Spirulina Batch
 description: Batch cultivation of Spirulina by Martin Currie
-weight: 10
+weight: 20
 ---
 
 ## Kit List
