@@ -36,7 +36,7 @@ Wish list (as of June 2023):
 
 ## Other Open Source Bioreactors
 
-### [Hackuarium's bioreactor](https://hackuarium.github.io/bioreactor/)
+### [Hackuarium bioreactor](https://hackuarium.github.io/bioreactor/)
 
 Watch also [Open source bioreactor](https://www.youtube.com/watch?v=2KjGlIgatn0)
 
@@ -44,6 +44,15 @@ Concerns (as of June 2023):
 
 1. [last commit](https://github.com/Hackuarium/bioreactor) was 7 months ago
 2. It doesn't appear to be commercially available although full [assembly instructions](https://hackuarium.github.io/bioreactor/making/assembling/) and a detailed [bill of materials](https://hackuarium.github.io/bioreactor/making/bom/) are given
+
+### [DIY Wave Bioreactor](https://github.com/AdrianMolecule/bioreactor)
+
+Also see resources on [Ottawa Bio Science Website](https://specyal.com/diybio/bioreactor.html))
+
+Concerns (as of October 2023):
+
+1. [last commit](https://github.com/AdrianMolecule/bioreactor/commit/2ee844fcf0e88d000144227b0c11cce19b59a23c) was 1 year ago
+2. It doesn't currently have an active OD reader although plans for it have been articulated
 
 ### Phenobottle
 

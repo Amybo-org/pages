@@ -1,7 +1,7 @@
 ---
 title: Risk management
 description: How do we manage risk?
-weight: 40
+weight: 50
 ---
 
 Amybo and its contributors accept no liability for anyone 
