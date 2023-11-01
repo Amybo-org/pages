@@ -1,9 +1,18 @@
 ---
 title: Control Testing
-description: Testing two fermentations in parallel by Gerrit Niezen
+description: A simple control test evaluating results between Pioreactors, by Gerrit Niezen
 weight: 10
-draft: true
 ---
+
+To ensure that the Pioreactors we're using are working as expected, we ran an experiment where we used the exact same experimental conditions with two Pioreactors, with the hope to produce the same results.
+
+The original experiment is described on the [Pioreactor website](https://docs.pioreactor.com/experiments/control-testing).
+
+
+{{% imgproc equipment Fit "600x500" %}}
+A bunsen burner, small weight scale, three vials and a dropper. Two of the vials contain YPD broth and are covered with aluminium foil. The other vial contains stock solution.
+{{% /imgproc %}}
+
 
 ## Kit List
 1. 2x [Pioreactor 20 ml](https://pioreactor.com/products/pioreactor-20ml?variant=46559156469816) - [see our thoughts on Pioreactors](https://amybo.org/docs/equipment/bioreactors/#pioreactorhttpspioreactorcom)
@@ -23,7 +32,11 @@ https://docs.pioreactor.com/experiments/control-testing
 https://github.com/Amybo-org/results
 
 ## Report
-Watch Gerrit's report his results: 
-https://www.youtube.com/watch?v=gIxau_YtKr0
+
+{{< card header="Watch Gerrit's report his results" >}}
+{{< youtube gIxau_YtKr0 >}}
+{{< /card >}}
+
+
 
 <br>
