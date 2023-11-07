@@ -15,7 +15,7 @@ title: Amybo
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-{{< youtube @amybo/live >}}
+{{< youtube xwZK5U3SPV0 >}}
 
 {{% blocks/lead color="primary" %}}
 Amybo is all about letting people grow their own nutritious, delicious and affordable protein...
