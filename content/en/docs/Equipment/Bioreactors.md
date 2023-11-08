@@ -87,4 +87,10 @@ Concerns (as of June 2023):
 1. [last commit](https://github.com/Biomaker/2018-opensourcebioreactor) was 5 years ago.
 2. [chat channel](https://chat.biomake.space/members/channels/open-source-bioreactor) is a dead link
 
+## Other lists of open-source bioreactors
+
+- Appropedia, the sustainability wiki, has a [list with open-source bioreactors and related papers](https://www.appropedia.org/Open_source_bioreactors).
+- The Biomaker Project listed above has a [link to a Google doc discussing open-source bioreactor platforms](https://docs.google.com/document/d/101LJigxu7D3VRPI4VEKiX8SMgm8ur7guZIodBO2QvO0/edit#heading=h.fw1rnnvb2x8g)
+- There an (archived) [*Awesome bioreactors* repo on GitHub](https://github.com/taivop/awesome-bioreactors)
+
 <br>
