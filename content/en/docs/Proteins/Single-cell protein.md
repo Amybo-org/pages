@@ -34,7 +34,7 @@ Solar Foods take carbon dioxide and water vapour from air.  They use solar power
 
 #### *Cupriavidus necator*
 
-[Novo-Nutrients](https://www.novonutrients.com) and [Kiverdi](https://www.kiverdi.com) are [thought to use](https://theses.hal.science/tel-03718434/document) Cupriavidus necator.
+[Novo-Nutrients](https://www.novonutrients.com) and [Kiverdi](https://www.kiverdi.com) are [thought to use](https://theses.hal.science/tel-03718434/document) Cupriavidus necator. The full genomes of the [H16 strain and JMP134 strain](https://openmicrobiologyjournal.com/VOLUME/16/ELOCATOR/e187428582207270/FULLTEXT/) have been sequenced.
 
 ### Algae
 
