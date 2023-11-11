@@ -30,7 +30,7 @@ Harrison Lab have published bioinformatic analysis of *Fusarium venenatum* genom
 
 While we, and [many](https://www.penguin.co.uk/books/317018/regenesis-by-monbiot-george/9780141992990) [others](https://theses.hal.science/tel-03718434/document) previously reported that [Solar Foods](https://solarfoods.com/science/) use Cupriavidus necator to produce their proprietary Solein largely from air, their [EU Novel Food application](https://food.ec.europa.eu/system/files/2023-08/novel-food_sum_ongoing-app_2021-1730.pdf) indicates that they are using a *Xanthobacter* species.
 
-Solar Foods take carbon dioxide and water vapour from air.  They use solar powered hydrolysis to split the water, providing hydrogen which C. necator can use as its energy source.  Ammonia is used as the [nitrogen source](https://www.youtube.com/watch?v=z8zuqR95fqA).
+Solar Foods take carbon dioxide and water vapour from air.  They use solar powered hydrolysis to split the water, providing hydrogen which the bacterium can use as its energy source.  Ammonia is used as the [nitrogen source](https://www.youtube.com/watch?v=z8zuqR95fqA).
 
 #### *Cupriavidus necator*
 
