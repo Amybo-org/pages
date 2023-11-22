@@ -186,7 +186,12 @@ enable = false
   name = "YouTube"
   url = "https://www.youtube.com/@amybo"
   icon = "fab fa-youtube"
-  desc = "Please subscribe"
+  desc = "Live streams every Wednesday at 8pm UTC"
+[[params.links.user]]
+   name = "Forum"
+   url = "https://forum.amybo.org"
+   icon = "far fa-comments"
+   desc = "Join our forum for discussions"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
@@ -204,6 +209,7 @@ enable = false
 #  icon = "fa fa-envelope"
 #  desc = "Discuss development issues around the project"
 
+
 # hugo module configuration
 
 [module]
@@ -218,3 +224,8 @@ enable = false
   [[module.imports]]
     path = "github.com/google/docsy/dependencies"
     disable = false
+
+[[menu.main]]
+	name="Community"
+	weight = 50
+	url = "https://forum.amybo.org"
