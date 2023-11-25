@@ -226,6 +226,6 @@ enable = false
     disable = false
 
 [[menu.main]]
-	name="Community"
+	name="Forum"
 	weight = 50
 	url = "https://forum.amybo.org"
