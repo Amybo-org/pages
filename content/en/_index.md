@@ -17,7 +17,7 @@ title: Amybo
 
 {{< youtube URkkhe3JCX4 >}}
 
-{{% blocks/section %}}
+{{% blocks/section color="dark" %}}
 
 Latest Video:
 {{< youtube SkW7g_8S03w >}}
@@ -29,7 +29,7 @@ Amybo is all about letting people grow their own nutritious, delicious and affor
 {{% /blocks/lead %}}
 
 
-{{% blocks/section color="dark" type="row" %}}
+{{% blocks/section color="light" type="row" %}}
 {{% blocks/feature icon="fa-handshake-angle" title="We need your help" %}}
 We need biotechnologists, chefs, coders, creatives, engineers, enthusiasts, environmentalists, makers, medics, microbiologists, nutritionists, others.
 {{% /blocks/feature %}}
