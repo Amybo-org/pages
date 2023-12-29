@@ -17,9 +17,8 @@ title: Amybo
 
 {{< youtube URkkhe3JCX4 >}}
 
-{{% blocks/section color="dark" %}}
+{{% blocks/section color="dark" title="Latest Video:"%}}
 
-Latest Video:
 {{< youtube SkW7g_8S03w >}}
 
 {{% /blocks/section %}}
