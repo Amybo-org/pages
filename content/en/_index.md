@@ -40,7 +40,7 @@ All these pages are editable, so please [add more, fix what's wrong, or just get
 
 
 {{% blocks/feature icon="fab fa-youtube" title="Subscribe on Youtube" url="https://www.youtube.com/@amybo" %}}
-And participate in our weekly livestreams...
+And participate in our weekly videos...
 {{% /blocks/feature %}}
 
 
