@@ -12,7 +12,7 @@ AMYBO is a diverse community of people interested in unlocking the secrets of pr
 
 Initially, we have quite a list of questions to answer:
 
-1. ~~Which single cell protein should we ferment first?~~ Are we all agreed that [Hydrogen Oxidising Bacteria](experiments/hob-enrichment) should be our main initial focus?
+1. ~~Which single cell protein should we ferment first?~~ Are we all agreed that [Hydrogen Oxidising Bacteria](/docs/experiments/hob-enrichment) should be our main initial focus?
 2. ~~What equipment will we need to ferment it?~~ Is everyone happy that we're focusing in on our HOB-modified Pioreactor as our main community research tool?
 3. How should we share our results to best accelerate open source development?
 4. [What license should work done by AMYBO be placed under?](https://forum.AMYBO.org/t/what-license-should-work-done-by-AMYBO-be-placed-under/47)
