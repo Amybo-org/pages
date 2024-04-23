@@ -14,16 +14,6 @@ Given the relative ease of downstream processing when the whole microbe is used,
 
 Most types of living microbe could potentially be used for biomass fermentation.  We'll break these down into fungi (yeasts and moulds), bacteria and algae:
 
-### Fungi
-
-#### *Fusarium venenatum*
-
-Quorn mycoprotein is a well known proprietary product of biomass fermentation.  It uses [*Fusarium venenatum*](https://www.quorn.us/news/how-is-quorn-made-introduction-to-quorn-and-mycoprotein), a filamentous fungi.  Quorn's original patents expired in 2010 but their [£30M fermentation towers](https://www.foodmanufacture.co.uk/Article/2011/03/14/Premier-didn-t-realise-Quorn-s-potential-says-ceo) may prove challenging for open source development.
-
-[Sustainable Bioproducts, Inc](https://www.fda.gov/media/142277/download) and [3F Bio Ltd](https://fda.report/media/145554/GRAS-Notice-GRN-945-Fungal+protein.pdf) have also submitted *Fusarium venenatum* GRAS (Generally Recognised As Safe) notices to the US-FDA.
-
-Harrison Lab have published bioinformatic analysis of *Fusarium venenatum* genomes [on GitHub](https://github.com/harrisonlab/fusarium_venenatum).
-
 ### Bacteria
 
 #### *Xanthobacter spp.*
@@ -49,5 +39,15 @@ Spirulina is commonly used as a food supplement, but [Spirulina Gnocchi](https:/
 #### *Chlorella*
 
 *Chlorella* arguably tastes worse than Spirulina.  They also have a lower protein concentration and cellulose walls.  In their favour: they are single celled, so may be easier to process, and should not produce cyanotoxins.
+
+### Fungi
+
+#### *Fusarium venenatum*
+
+Quorn mycoprotein is a well known proprietary product of biomass fermentation.  It uses [*Fusarium venenatum*](https://www.quorn.us/news/how-is-quorn-made-introduction-to-quorn-and-mycoprotein), a filamentous fungi.  Quorn's original patents expired in 2010 but their [£30M fermentation towers](https://www.foodmanufacture.co.uk/Article/2011/03/14/Premier-didn-t-realise-Quorn-s-potential-says-ceo) may prove challenging for open source development.
+
+[Sustainable Bioproducts, Inc](https://www.fda.gov/media/142277/download) and [3F Bio Ltd](https://fda.report/media/145554/GRAS-Notice-GRN-945-Fungal+protein.pdf) have also submitted *Fusarium venenatum* GRAS (Generally Recognised As Safe) notices to the US-FDA.
+
+Harrison Lab have published bioinformatic analysis of *Fusarium venenatum* genomes [on GitHub](https://github.com/harrisonlab/fusarium_venenatum).
 
 <br>
