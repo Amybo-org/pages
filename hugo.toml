@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Amybo"
+title = "AMYBO"
 
 # Language settings
 contentDir = "content/en"
@@ -64,7 +64,7 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Amybo"
+title = "AMYBO"
 description = "Open source protein fermentation"
 
 [markup]
@@ -86,7 +86,7 @@ description = "Open source protein fermentation"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "Amybo"
+copyright = "AMYBO"
 privacy_policy = "https://andeye.com/privacy/"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -108,12 +108,12 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://github.com/Amybo-org/pages"
+url_latest_version = "https://github.com/AMYBO-org/pages"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/Amybo-org/pages"
+github_repo = "https://github.com/AMYBO-org/pages"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/Amybo-org/pages"
+github_project_repo = "https://github.com/AMYBO-org/pages"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -156,8 +156,8 @@ sidebar_search_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/Amybo-org/pages/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/Amybo-org/pages/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/AMYBO-org/pages/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/AMYBO-org/pages/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
@@ -184,18 +184,18 @@ enable = false
 #  desc = "Practical questions and curated answers"
 [[params.links.user]]
   name = "YouTube"
-  url = "https://www.youtube.com/@amybo"
+  url = "https://www.youtube.com/@AMYBO"
   icon = "fab fa-youtube"
   desc = "Live streams every Wednesday at 8pm UTC"
 [[params.links.user]]
    name = "Forum"
-   url = "https://forum.amybo.org"
+   url = "https://forum.AMYBO.org"
    icon = "far fa-comments"
    desc = "Join our forum for discussions"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/Amybo-org"
+  url = "https://github.com/AMYBO-org"
   icon = "fab fa-github"
   desc = "Development takes place here!"
 #[[params.links.developer]]
@@ -228,4 +228,4 @@ enable = false
 [[menu.main]]
 	name="Forum"
 	weight = 50
-	url = "https://forum.amybo.org"
+	url = "https://forum.AMYBO.org"

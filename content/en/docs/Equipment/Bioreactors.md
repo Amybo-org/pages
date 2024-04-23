@@ -13,7 +13,7 @@ Once you have determined which protein you wish to cultivate, the next question 
 
 It currently comes in a cute and cost-effective 20 ml version that can be used in batch, fed batch, continuous, chemostat, turbidostat & PID morbidostat modes.  While the software is already [open source](https://github.com/pioreactor/), we understand from the founder that the hardware and 3D designs are due to be made open source in 2023.
 
-Exciting features for Amybo (as of June 2023):
+Exciting features for AMYBO (as of June 2023):
 
 * it appears to be more affordable than most automated bioreactors
 * it will soon be fully open source, hence customisable

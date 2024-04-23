@@ -24,7 +24,7 @@ Given the high risk and low volumes of sales a commercial autoclave would likely
 
 #### [Metallic Black GPC201SS-20 5.5L 1000W Pressure Cooker](https://direct.asda.com/george/home/cooking-appliances/metallic-black-gpc201ss-20-55l-1000w-pressure-cooker/050019614,default,pd.html)
 
-Exciting features for Amybo (as of June 2023):
+Exciting features for AMYBO (as of June 2023):
 
 * Low price
 * Can be used outside the kitchen (no hob required)

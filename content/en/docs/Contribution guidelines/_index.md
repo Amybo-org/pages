@@ -1,20 +1,20 @@
 ---
 title: Contribution Guidelines
 weight: 999
-description: How to contribute to the Amybo community
+description: How to contribute to the AMYBO community
 ---
 
 ## Reach out to us
 
-Please add a comment to one of [our YouTube videos](https://www.youtube.com/@amybo) or drop us a line at <hello@amybo.org> with any suggestions or questions you may have - or just to say hello, it's good to know people are reading this.
+Please add a comment to one of [our YouTube videos](https://www.youtube.com/@AMYBO) or drop us a line at <hello@AMYBO.org> with any suggestions or questions you may have - or just to say hello, it's good to know people are reading this.
 
 If you're comfortable with GitHub (or would like to learn) we'd absolutely love it if you were happy to dive in and edit our pages directly:
 
-## Editing Amybo.org
+## Editing AMYBO.org
 
-We welcome contributions and improvements to the Amybo.org website.  We want this to be as easy as possible so considered a wiki.  However, given the controversial nature and risks associated with protein production for human consumption, we decided that an approvals process was required.
+We welcome contributions and improvements to the AMYBO.org website.  We want this to be as easy as possible so considered a wiki.  However, given the controversial nature and risks associated with protein production for human consumption, we decided that an approvals process was required.
 
-Since we'll be using GitHub for software development, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via <hello@amybo.org>
+Since we'll be using GitHub for software development, and potentially also for hardware and procedure development, it made sense to use this for community development of the website.  If you struggle at all with GitHub development, please get in touch via <hello@AMYBO.org>
 
 ### Web stack
 
@@ -36,7 +36,7 @@ Here's a quick guide to updating the docs. It assumes you're familiar with the
 GitHub workflow and you're happy to use the automated preview of your doc
 updates:
 
-1. Fork the [Amybo pages repo](https://github.com/Amybo-org/pages) on GitHub.
+1. Fork the [AMYBO pages repo](https://github.com/AMYBO-org/pages) on GitHub.
 1. Make your changes and send a pull request (PR).
 1. If you're not yet ready for a review, add "WIP" to the PR name to indicate
   it's a work in progress. (**Don't** add the Hugo property
@@ -64,10 +64,10 @@ If you've just spotted something you'd like to change while using the docs, Docs
 If you want to run your own local Hugo server to preview your changes as you work:
 
 1. Follow the instructions in [Getting started](/docs/getting-started) to install Hugo and any other tools you need. You'll need at least **Hugo version 0.45** (we recommend using the most recent available version), and it must be the **extended** version, which supports SCSS.
-1. Fork the [Amybo pages repo](https://github.com/Amybo-org/pages) repo into your own project, then create a local copy using `git clone`. Don’t forget to use `--recurse-submodules` or you won’t pull down some of the code you need to generate a working site.
+1. Fork the [AMYBO pages repo](https://github.com/AMYBO-org/pages) repo into your own project, then create a local copy using `git clone`. Don’t forget to use `--recurse-submodules` or you won’t pull down some of the code you need to generate a working site.
 
     ```
-    git clone --recurse-submodules --depth 1 https://github.com/Amybo-org/pages
+    git clone --recurse-submodules --depth 1 https://github.com/AMYBO-org/pages
     ```
 
 1. Run `hugo server` in the site root directory. By default your site will be available at [localhost:1313/](http://localhost:1313/). Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
@@ -76,7 +76,7 @@ If you want to run your own local Hugo server to preview your changes as you wor
 
 ### Creating an issue
 
-If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the [Amybo pages repo](https://github.com/Amybo-org/pages/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
+If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the [AMYBO pages repo](https://github.com/AMYBO-org/pages/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
 
 ### Useful resources
 

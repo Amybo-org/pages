@@ -15,7 +15,7 @@ A bunsen burner, small weight scale, three vials and a dropper. Two of the vials
 
 
 ## Kit List
-1. 2 x [Pioreactor 20 ml](https://pioreactor.com/products/pioreactor-20ml?variant=46559156469816) - [see our thoughts on Pioreactors](https://amybo.org/docs/equipment/bioreactors/#pioreactorhttpspioreactorcom)
+1. 2 x [Pioreactor 20 ml](https://pioreactor.com/products/pioreactor-20ml?variant=46559156469816) - [see our thoughts on Pioreactors](https://AMYBO.org/docs/equipment/bioreactors/#pioreactorhttpspioreactorcom)
 1. 2 x [Raspberry Pi Zero 2 W with header](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 1. 2 x [Raspberry Pi 15W USB-C Power Supply](https://www.raspberrypi.com/products/type-c-power-supply/)
 1. 2 x [Micro SD cards](https://docs.pioreactor.com/user-guide/common-questions#what-microsd-cards-do-you-recommend)
@@ -66,7 +66,7 @@ Two Pioreactors standing side by side, with the one on the right connected to a 
 
 ## Results
 
-The raw results from the experiment are [available as CSV files on GitHub](https://github.com/Amybo-org/results/tree/main/Control%20Testing).
+The raw results from the experiment are [available as CSV files on GitHub](https://github.com/AMYBO-org/results/tree/main/Control%20Testing).
 
 {{% imgproc results Fit "600x1500" %}}
 A screenshot of the Pioreactor results

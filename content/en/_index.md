@@ -1,14 +1,14 @@
 ---
-title: Amybo
+title: AMYBO
 ---
 
 {{< blocks/cover title="Open Source Protein" image_anchor="top" height="full" >}}
-<p class="lead">Welcome to Amybo: a non-profit open source protein fermentation community</p>
+<p class="lead">Welcome to AMYBO: a non-profit open source protein fermentation community</p>
 <br><br>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://forum.amybo.org">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://forum.AMYBO.org">
   Discuss <i class="fa-regular fa-comments ms-2 "></i>
 </a>
 <br><br>
@@ -18,7 +18,7 @@ title: Amybo
 {{< youtube CfzGvK5tgiQ >}}
 
 {{% blocks/lead color="primary" %}}
-Amybo is all about letting people grow their own nutritious, delicious and affordable protein...
+AMYBO is all about letting people grow their own nutritious, delicious and affordable protein...
 {{% /blocks/lead %}}
 
 
@@ -28,12 +28,12 @@ We need biotechnologists, chefs, coders, creatives, engineers, enthusiasts, envi
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/Amybo-org" %}}
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/AMYBO-org" %}}
 All these pages are editable, so please [add more, fix what's wrong, or just get in touch](/docs/contribution-guidelines).
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-youtube" title="Subscribe on Youtube" url="https://www.youtube.com/@amybo" %}}
+{{% blocks/feature icon="fab fa-youtube" title="Subscribe on Youtube" url="https://www.youtube.com/@AMYBO" %}}
 We aim to resume posting fortnightly videos as soon as funding permits.
 {{% /blocks/feature %}}
 

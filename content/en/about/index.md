@@ -1,10 +1,10 @@
 ---
-title: About Amybo
+title: About AMYBO
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Amybo" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About AMYBO" image_anchor="bottom" height="auto" %}}
 
 a non-profit open source protein fermentation community
 {.mt-5}
@@ -12,12 +12,12 @@ a non-profit open source protein fermentation community
 {{% /blocks/cover %}}
 
 {{% blocks/lead color="primary" %}}
-Amybo is all about letting people grow their own nutritious, delicious and affordable protein.
+AMYBO is all about letting people grow their own nutritious, delicious and affordable protein.
 {{% /blocks/lead %}}
 
 {{% blocks/section color="light" %}}
 
-Amybo was kicked off in 2023 by [Martin Currie](https://www.linkedin.com/in/martincurrie/), following inspiration from:
+AMYBO was kicked off in 2023 by [Martin Currie](https://www.linkedin.com/in/martincurrie/), following inspiration from:
 * [George Monbiot](https://www.monbiot.com)'s [Embrace what may be the most important green technology ever. It could save us all.](https://www.theguardian.com/commentisfree/2022/nov/24/green-technology-precision-fermentation-farming) Guardian Article, which put him on to:
 * [Reboot Food](https://www.rebootfood.org), which got him googling for open source protein fermentation projects, where he found not much more than:
 * [Domingo Club](https://domingoclub.com/documentation/domingo-fermenter)'s lovely open soure Tempeh fermenter and:
@@ -53,11 +53,11 @@ CONFESSION: The image of the blueberry porridge that we're currently using on th
 We need biotechnologists, chefs, coders, creatives, engineers, enthusiasts, environmentalists, makers, medics, microbiologists, nutritionists, others.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/Amybo-org" %}}
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/AMYBO-org" %}}
 All these pages are editable, so please [add more, fix what's wrong, or just get in touch](/docs/contribution-guidelines).
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-youtube" title="Subscribe on Youtube" url="https://www.youtube.com/@amybo" %}}
+{{% blocks/feature icon="fab fa-youtube" title="Subscribe on Youtube" url="https://www.youtube.com/@AMYBO" %}}
 We aim to resume posting fortnightly videos as soon as funding permits.
 {{% /blocks/feature %}}
 

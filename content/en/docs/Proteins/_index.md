@@ -14,9 +14,9 @@ We mention a number of commercial "closed source" companies in these sections.  
 
 Biotechnology is providing amazing advances in many areas of food production including:
 
-1. [Single-cell protein](https://amybo.org/docs/proteins/single-cell-protein/)
-2. [Precision fermentation](https://amybo.org/docs/proteins/precision-fermentation/)
-3. [Cultivated meat](https://amybo.org/docs/proteins/cultivated-meat/)
+1. [Single-cell protein](https://AMYBO.org/docs/proteins/single-cell-protein/)
+2. [Precision fermentation](https://AMYBO.org/docs/proteins/precision-fermentation/)
+3. [Cultivated meat](https://AMYBO.org/docs/proteins/cultivated-meat/)
 
 These are currently ranked in order that Martin envisages attempting them, but if you are working on open science projects around any of these, please do get in touch.
 
