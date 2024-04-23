@@ -24,4 +24,10 @@ weight: 20
 17. [Distilled water](https://amzn.eu/d/edcZw8R)
 18. [*Spirulina* inoculum & growth media](https://www.etsy.com/uk/listing/1409321839/live-100ml-spirulina-culture-active?ref=yr_purchases) - as it was the only *Spirulina* we could source in time.
 
+## Setup
+{{< youtube xwZK5U3SPV0 >}}
+
+## Results
+{{< youtube 6V9B7pIcwlI >}}
+
 <br>
