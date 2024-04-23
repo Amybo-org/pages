@@ -22,17 +22,18 @@ Given the high risk and low volumes of sales a commercial autoclave would likely
 
 ### Electronic
 
-#### [Metallic Black GPC201SS-20 5.5L 1000W Pressure Cooker](https://direct.asda.com/george/home/cooking-appliances/metallic-black-gpc201ss-20-55l-1000w-pressure-cooker/050019614,default,pd.html)
+~~#### [Metallic Black GPC201SS-20 5.5L 1000W Pressure Cooker](https://direct.asda.com/george/home/cooking-appliances/metallic-black-gpc201ss-20-55l-1000w-pressure-cooker/050019614,default,pd.html)~~
 
-Exciting features for AMYBO (as of June 2023):
+~~Exciting features for AMYBO (as of June 2023):~~
 
-* Low price
-* Can be used outside the kitchen (no hob required)
+~~* Low price~~
+~~* Can be used outside the kitchen (no hob required)~~
 
-Concerns (as of June 2023):
+~~Concerns (as of June 2023):~~
 
-* Can it accurately monitor and control temperature and pressure?
-* Will condensation be an issue? (Autoclaves use dry steam)
+~~* Can it accurately monitor and control temperature and pressure?~~
+~~* Will condensation be an issue? (Autoclaves use dry steam)~~
+* It can't maintain 121°C - the normal minimum temperature for autoclaving
 
 ### Stovetop
 
