@@ -11,6 +11,6 @@ This is where the Amybo documentation lives - lets keep all the learning availab
   Overview <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
-Other content such as discussions, trial results, case studies, and community updates should live in the [Community](/community/) pages.
+Other content such as discussions, trial results, case studies, and community updates should live in the [Forum](https://forum.amybo.org).
 
 <br>
