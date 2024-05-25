@@ -5,6 +5,7 @@ weight: 100
 description: >-
      Kickstarting for Good accelerator - one pager
 hidden: true
+toc_hide: true
 ---
 
 ## Congratulations!
