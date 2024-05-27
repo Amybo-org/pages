@@ -9,7 +9,7 @@ toc_hide: true
 ---
 
 ## Thank you
-For considering AMYBO for Kickstarting for Good.  I've just recorded this bang up to date <9 minute introduction for you.  If the science bores you (starting 2m 55s in), feel free to skip to the finance section 7m 10s in:
+For considering AMYBO for [Kickstarting for Good](https://provegincubator.com/kickstartingforgood/).  I've just recorded this bang up to date <9 minute introduction for you.  If the science bores you (starting 2m 55s in), feel free to skip to the finance section 7m 10s in:
 {{< vimeo 950791780 >}}
 
 Forgive me for not fully customising the video for Kickstarting for Good.  I imagine you'd appreciate my making a fully recyclable video  as I thought we could do with a general-use pitch video...  If you'd like a fully customised version, lets arrange a time for a video call.
