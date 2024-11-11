@@ -84,12 +84,10 @@ description = "Open source protein fermentation"
 # Comment out if you don't want the "print entire section" link enabled.
 [outputs]
 section = ["HTML", "print", "RSS"]
-css = "main.css"
 
 [params]
 copyright = "AMYBO"
 privacy_policy = "https://andeye.com/privacy/"
-customCSS = ["scss/main.css"]
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
