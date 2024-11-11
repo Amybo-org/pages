@@ -13,5 +13,3 @@ module:
   hugoVersion:
     extended: true
     min: 0.110.0
-params:
-  google_analytics: ""
