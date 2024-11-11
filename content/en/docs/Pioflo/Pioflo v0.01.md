@@ -27,7 +27,9 @@ description: >-
 1. Stir until all sugar dissolves
 1. Cool to room temperature
 1. Remove green tea bags
-1. Add M3 nut to end of two Pioreactor silicone tubes connect one directly to the vial cap and the second via the peristaltic pump
+1. Add M3 nut to end of two Pioreactor silicone tubes and submerge them in the tea
+1. connect one tube directly to the vial cap and the second via the peristaltic pump
+1. Seal the other Pioreactor vial cap ports (or run all four into the tea, as I did)
 1. Add SCOBY
 1. Cover (I used [recycled tissue paper](https://amzn.eu/d/2mDAtCp) but will use a cloth next time) secured with a rubber band
 1. Monitor optical density
