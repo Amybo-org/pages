@@ -9,9 +9,7 @@ To ensure that the Pioreactors we're using are working as expected, we ran an ex
 The original experiment is described on the [Pioreactor website](https://docs.pioreactor.com/experiments/control-testing).
 
 
-{{% imgproc equipment Fit "600x500" %}}
-A bunsen burner, small weight scale, three vials and a dropper. Two of the vials contain YPD broth and are covered with aluminium foil. The other vial contains stock solution.
-{{% /imgproc %}}
+![A bunsen burner, small weight scale, three vials and a dropper. Two of the vials contain YPD broth and are covered with aluminium foil. The other vial contains stock solution.](./equipment.jpg)
 
 
 ## Kit List
@@ -43,9 +41,7 @@ A bunsen burner, small weight scale, three vials and a dropper. Two of the vials
 1. Wait until pressure is completely reduced then lift the weight off the valve allowing any remaining steam to escape. **Never open the pressure cooker until the steam
 valve has been opened to release the pressure.**
 
-{{% imgproc autoclaving Fit "600x500" %}}
-Using a pressure cooker on a gas stove as an autoclave
-{{% /imgproc %}}
+![Using a pressure cooker on a gas stove as an autoclave](./autoclaving.jpg)
 
 ### Running the experiment
 
@@ -60,17 +56,13 @@ Using a pressure cooker on a gas stove as an autoclave
 1. Go back to the graphs and check that an Optical Density (OD) signal is being received.
 1. Select *Manage all Pioreators* again and start *Growth rate*.
 
-{{% imgproc pioreactors Fit "600x500" %}}
-Two Pioreactors standing side by side, with the one on the right connected to a Raspberry Pi 400
-{{% /imgproc %}}
+![Two Pioreactors standing side by side, with the one on the right connected to a Raspberry Pi 400](./pioreactors.jpg)
 
 ## Results
 
 The raw results from the experiment are [available as CSV files on GitHub](https://github.com/AMYBO-org/results/tree/main/Control%20Testing).
 
-{{% imgproc results Fit "600x1500" %}}
-A screenshot of the Pioreactor results
-{{% /imgproc %}}
+![A screenshot of the Pioreactor results](./results.jpg)
 
 ## Report
 

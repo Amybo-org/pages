@@ -4,7 +4,7 @@ description: What is Precision Fermentation and could we implement it?
 weight: 20
 ---
 
-Precision fermentation is where microbes are used to produce particular chemicals.  [Insulin]([url](https://openinsulin.org)) and rennet are common cited products of precision fermentation.  
+Precision fermentation is where microbes are used to produce particular chemicals.  [Insulin](https://openinsulin.org) and rennet are common cited products of precision fermentation.  
 
 Precision fermentation can be used to produce pretty much any chemical.  Ingredients that are currently being produced using precision fermentation include:
 
