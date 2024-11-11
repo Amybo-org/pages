@@ -127,8 +127,10 @@ gcs_engine_id = "d72aa9b2712488cc3"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
-[params.search]
-  algolia = false
+[params.search.algolia]
+  appId = ""
+  apiKey = ""
+  indexName = ""
 
 # Enable Lunr.js offline search
 offlineSearch = false
